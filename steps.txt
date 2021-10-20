@@ -1,0 +1,13 @@
+Step 1
+    Create the application
+    ng new devlogger
+
+Step 2
+    Create the components
+    ng g c components/navbar --skip-tests 
+    ng g c components/log-form --skip-tests
+    ng g c components/logs --skip-tests
+
+Step 3
+    Install third party libraries and update angular.json to include those accordingly
+    npm install bootstrap@4.0.0-beta.2 popper.js jquery font-awesome
