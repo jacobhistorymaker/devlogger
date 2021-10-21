@@ -25,3 +25,6 @@ Step 6
 
 Step 7
    Implement basic CRUD functionality
+
+Step 8 
+   Add localstorage support for storing data to localstorage
