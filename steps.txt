@@ -11,3 +11,12 @@ Step 2
 Step 3
     Install third party libraries and update angular.json to include those accordingly
     npm install bootstrap@4.0.0-beta.2 popper.js jquery font-awesome
+
+
+Step 4
+    Enhance my components
+
+Step 5
+    Create log service with:
+    ng g c services/log 
+    import it in the providers of app.module.ts
