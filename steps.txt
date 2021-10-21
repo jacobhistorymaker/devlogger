@@ -22,4 +22,4 @@ Step 5
     import it in the providers of app.module.ts
 
 Step 6 
-    
+   Update log-form asynchronously when clicking on logs 
